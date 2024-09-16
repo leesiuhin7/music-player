@@ -51,3 +51,8 @@ Feel free to submit **pull requests** with suggestions or improvements, or open 
 
 - Open an **Issue** on GitHub: [Link to Issues Page](https://github.com/leesiuhin7/music-player/issues)
 - Submit a **Pull Request** with your suggested changes.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
