@@ -20,4 +20,10 @@ Follow these steps to install and run the application on your local mechine:
 ## Usage
 
 - Open the app by running main.py
-![Alt Text](screenshots/menu.png)
+
+- Tutorial (Screenshots)
+![](screenshots/menu.png)
+![](screenshots/music%20library.png)
+![](screenshots/play%20queue.png)
+![](screenshots/playlist.png)
+![](screenshots/settings.png)
