@@ -1548,7 +1548,8 @@ class MainWindow:
                 def update(self) -> None:
                     if self.id < len(self.input_data):
                         self.name_lbl.config(
-                            text=self.input_data[self.id])
+                            text=os.path.abspath(self.input_data[self.id])
+                        )
 
                     else:
                         self.name_lbl.config(text="")
