@@ -16,3 +16,5 @@ Follow these steps to install and run the application on your local mechine:
 2. Install the required dependencies:
    pip install -r requirement.txt
 3. Run main.py
+
+## Usage
