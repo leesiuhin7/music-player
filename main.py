@@ -1797,7 +1797,7 @@ class MainWindow:
                     del delete_displays
 
                         
-                    display_frame_list = (
+                    display_frame_list[:] = (
                         display_frame_list[:len(input_data)])
                     
                 else:
