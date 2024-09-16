@@ -20,4 +20,4 @@ Follow these steps to install and run the application on your local mechine:
 ## Usage
 
 - Open the app by running main.py
-(screenshots/menu.png)
+!(screenshots/menu.png)
